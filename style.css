@@ -50,3 +50,24 @@ p{
 	letter-spacing: 0.05rem;
 	line-height:3rem;
 }
+
+@media(max-width: 768px){
+	iframe{
+		width: 500px ;
+		height: 300px ;
+	}
+}
+
+@media(max-width: 700px){
+	iframe{
+		width: 450px ;
+		height: 300px ;
+	}
+}
+
+@media(max-width: 640px){
+	iframe{
+		width: 430px ;
+		height: 300px ;
+	}
+}
